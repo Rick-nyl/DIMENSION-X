@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || '', // ENTER YOUR SESSION_ID TO THIS.
+SESSION_ID: process.env.SESSION_ID || '', // DIMENSION-X~SE1EiJAT#t9ALwCFCM6_TsLr0aJtq7CUxV0o8HTwq3WKAQ5DExH0.
 MONGODB_URI: process.env.MONGODB_URI || '', // ENTER YOUR MONGODB URL TO THIS.
 
 
